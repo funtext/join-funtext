@@ -9,4 +9,4 @@ If you can satisfy all the above requirements, then send an e-mail to [info@funt
 - What languages do you know?
 - How do you think you can help us (e.g. doing HTML, CSS, JS, coding APIs, or simply writing documentations to the various repos etc...)?
 - Can you be active at least once a month?
-We will answer you as soon as possible, and in the meanwhile keep on facing! ( ͡° ͜ʖ ͡°)
+We will answer you as soon as possible, and in the meanwhile keep on facing!<br>( ͡° ͜ʖ ͡°)
